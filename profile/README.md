@@ -1,6 +1,6 @@
 # MoltMCP
 
-**Autonomous AI Agent Payments on the Machine Payments Protocol (MPP)**
+**Autonomous AI Agent Payments on the Machine Payments Protocol (MCP)**
 
 $MCP CA: `0x00000000000000000`
 
