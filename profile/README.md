@@ -1,7 +1,6 @@
 # MoltMCP
 
 **Autonomous AI Agent Payments on the Machine Payments Protocol (MCP)**
-0x15f5CB7b2Acbe170101f55B20A490C6884E334e0
 $MCP CA: `0x15f5CB7b2Acbe170101f55B20A490C6884E334e0`
 
 ---
