@@ -8,13 +8,13 @@ $MCP CA: `0x00000000000000000`
 
 ## Overview
 
-MoltMCP is an integration layer that enables AI agents to execute autonomous transactions using [Stripe's Machine Payments Protocol (MPP)](https://stripe.com/blog/machine-payments-protocol), with all transactions transparently settled on-chain via the **Base** blockchain.
+MoltMCP is an integration layer that enables AI agents to execute autonomous transactions using [Stripe's Machine Payments Protocol (MCP)](https://stripe.com/blog/machine-payments-protocol), with all transactions transparently settled on-chain via the **Base** blockchain.
 
 By bridging natural language agent instructions with protocol-compliant stablecoin payments, MoltMCP transforms AI agents into first-class economic actors capable of discovering, negotiating, and paying for services without human intervention.
 
 ### Key Features
 
-- **MPP Protocol Compliant** — Full support for Stripe's Machine Payments Protocol
+- **MCP Protocol Compliant** — Full support for Stripe's Machine Payments Protocol
 - **Base-Native Settlement** — Sub-400ms finality, <$0.001 transaction fees
 - **OpenClaw Integration** — First-class support for OpenClaw AI agents
 - **Transparent & Auditable** — All transactions verifiable on-chain via Base
@@ -32,7 +32,7 @@ TypeScript SDK for integrating MoltMCP payments into AI agents and applications.
 
 **Key Features:**
 - Intent-based payment API
-- Automatic MPP negotiation
+- Automatic MCP negotiation
 - Base wallet integration
 - Configurable spending policies
 
